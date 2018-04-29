@@ -19,7 +19,7 @@ Um JavaScript Files ind dem Browser schnell ausfüren zu können, rate ich p5.js
  
  ```javascript
 earthquakes = loadStrings('https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.csv');
-
+```
 
 ## Funktionsweise 
 Dieses Skript benutzt Mapbox (Standortdatenplattform für mobile und Webanwendungen) um eine Weltkarte zu zeichnen wo die Daten der letzten Erdbeben eingezeichnet werden. Hier werden diese Daten so verarbeitet, dass der Ort (Seiten und Breitengrade) auf der Karte angepasst wird. Dies war auch der schwierigste teil dieser Aufgabe.
