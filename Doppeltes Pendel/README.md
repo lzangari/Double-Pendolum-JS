@@ -1,7 +1,7 @@
 Beschreibung
 ===========
 
-Ein Simulator für das Problem des Gekoppelte-Pendel (beispiel code für Inway GmbH bewerbung).
+Ein Simulator für das Problem des Gekoppelte-Pendel für Lagrange-Funktion lösung und Hamilton-Lösung (beispiel code für Inway GmbH bewerbung).
 
 
 
